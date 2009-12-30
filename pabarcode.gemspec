@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = %q{Helper classes for working with various barcode types}
   s.email = %q{petros@amiridis.net}
   s.extra_rdoc_files = ["README.rdoc", "lib/pabarcode.rb"]
-  s.files = ["README.rdoc", "Rakefile", "barcode_test.rb", "lib/pabarcode.rb", "Manifest", "pabarcode.gemspec"]
+  s.files = ["README.rdoc", "Rakefile", "barcode_test.rb", "lib/pabarcode.rb", "pabarcode.gemspec"]
   s.homepage = %q{http://github.com/amiridis/pabarcode}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "PAbarcode", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
