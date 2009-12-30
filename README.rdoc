@@ -1,0 +1,12 @@
+= Rbarcode
+
+Ruby gem for supporting opeartions on various types of barcodes.
+
+== Install
+
+  
+
+
+== Usage
+
+
