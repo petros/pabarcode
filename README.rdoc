@@ -1,12 +1,18 @@
-= Rbarcode
+= PAbarcode
 
 Ruby gem for supporting opeartions on various types of barcodes.
 
+
 == Install
 
-  
+  gem install pabarcode --source http://gemcutter.org
 
 
 == Usage
 
+You just require pabarcode and you can use the PABarcode::Barcode class as follows:
+
+  barcode12 = "123456789012"
+  bc = PABarcode::Barcode.new(barcode12)
+  barcode_with_check_digit = bc.get_ean_13
 

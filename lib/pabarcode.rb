@@ -1,4 +1,4 @@
-module Rbarcode
+module PAbarcode
   class Barcode
     attr_reader :barcode
 

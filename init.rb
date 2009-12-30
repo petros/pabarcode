@@ -1,2 +1,2 @@
-require "rbarcode"
+require "pabarcode"
 

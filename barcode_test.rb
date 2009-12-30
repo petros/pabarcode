@@ -1,5 +1,7 @@
-require "barcode"
+require "lib/pabarcode"
 require "test/unit"
+
+include PAbarcode
 
 class BarcodeTest < Test::Unit::TestCase
   def test_get_ean_13
