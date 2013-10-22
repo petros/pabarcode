@@ -1,6 +1,6 @@
 = PAbarcode
 
-Ruby gem for supporting opeartions on various types of barcodes.
+Ruby gem for supporting operations on various types of barcodes.
 
 
 == Install
