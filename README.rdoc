@@ -16,3 +16,4 @@ You just require pabarcode and you can use the PABarcode::Barcode class as follo
   bc = PABarcode::Barcode.new(barcode12)
   barcode_with_check_digit = bc.get_ean_13
 
+Why is this an thing?
